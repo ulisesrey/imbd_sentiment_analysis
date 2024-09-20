@@ -5,10 +5,8 @@ This project aims to classify movie reviews as positive or negative based on the
 ## Table of Contents
 - [Dataset](#dataset)
 - [Problem Statement](#problem-statement)
-- [Project Structure](#project-structure)
 - [Model and Results](#model-and-results)
 - [Skills Acquired](#skills-acquired)
-- [How to Run](#how-to-run)
 - [Acknowledgements](#acknowledgements)
 
 ## Dataset
