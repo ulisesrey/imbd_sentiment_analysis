@@ -19,9 +19,8 @@ You can download the dataset directly using the link above or load it via the co
 
 The goal of this project is to build a model capable of predicting whether a movie review is positive or negative based on its text. For example, consider the following review:
 
-```
-The special effects were pretty good and more than a little intimidating. Not sure I'll ever go deep sea fishing again... I expected a little more emotion in the film than what was presented. Definitely a movie that could've been seen on DVD.
-```
+> The special effects were pretty good and more than a little intimidating. Not sure I'll ever go deep sea fishing again... I expected a little more emotion in the film than what was presented. Definitely a movie that could've been seen on DVD.
+
 
 Although this review has mixed emotions, the user rated the movie positively. Our challenge is to build a model that can make accurate predictions on such ambiguous cases.
 
